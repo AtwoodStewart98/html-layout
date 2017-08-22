@@ -1,0 +1,37 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+.inline {
+  display: flex;
+  flex-direction: row;
+}
+.leftbar {
+  background-color: blue;
+  height: 100vh;
+  width: 33%;
+}
+.midbar {
+  background-color: turquoise;
+  height: 100vh;
+  width: 34%;
+}
+.rightbar {
+  background-color: greenyellow;
+  height: 100vh;
+  width: 33%;
+  position: relative;
+}
+.img-placeholder {
+  background-color: red;
+  position: absolute;
+  width: 100%;
+  height: 20vh;
+  bottom: 0px;
+  text-align: center;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 40px; 
+}
