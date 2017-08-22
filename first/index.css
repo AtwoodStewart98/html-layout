@@ -1,0 +1,33 @@
+body {
+  background-color: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+.topbar {
+  margin: 0px;
+  background-color: #3d3d3d;
+  width: 100%;
+  height: 20vh;
+}
+.leftbar {
+  margin: 0px;
+  background-color: #a9a9a9;
+  width: 15%;
+  height: 100vh;
+  float: left;
+}
+.rightbar {
+  margin: 0px;
+  background-color: #a9a9a9;
+  width: 15%;
+  height: 100vh;
+  float: right;
+}
+.footbar {
+  margin: 0px;
+  background-color: #000;
+  width: 100%;
+  height: 20vh;
+  align: center;
+  margin-top: 80vh;
+}
