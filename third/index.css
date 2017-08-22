@@ -1,0 +1,44 @@
+body {
+  background-color: #a9a9a9;
+  margin: 0px;
+}
+p {
+  font-size: 24px;
+  padding: 80px 40px 80px 40px;
+}
+.yee {
+  background-color: #add8e6;
+  height: 120px;
+  width: 120px;
+  margin: 20px 40px 20px 40px;
+}
+.block2 {
+  background-color: #fff;
+  height: 300px;
+  width: 100%;
+  margin: 0px;
+}
+.block3 {
+  background-color: #add8e6;
+  height: 160px;
+  width: 100%;
+  margin: 0px;
+}
+.block4 {
+  background-color: turquoise;
+  height: 160px;
+  width: 100%;
+  margin: 0px;
+}
+.block5 {
+  background-color: yellowgreen;
+  height: 160px;
+  width: 100%;
+  margin: 0px;
+}
+.block6 {
+  background-color: yellow;
+  height: 160px;
+  width: 100%;
+  margin: 0px;
+}
